@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #007ACC;
+    color: #fff;
+    padding: 1em 0;
+    text-align: center;
+}
+
+section {
+    padding: 2em;
+    text-align: center;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 1em 0;
+    text-align: center;
+}
+
+@media  screen and (max-width:600px) {
+
+    body{background-color: red;}
+
+    footer{color: chartreuse;}
+    
+}
+
+
+@media  screen and (max-width:450px) {
+
+    body{background-color: coral;}
+    footer{background-color: blueviolet;}    
+    header{display: none;}
+}

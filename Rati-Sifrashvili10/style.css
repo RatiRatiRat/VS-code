@@ -1,0 +1,189 @@
+div.main{
+    width: 1519px;height: 4610px; background-color: #2c2c32; 
+}
+body{margin: 0%;}
+div.navbar{
+     height: 50px; background-color:#2c2c32; display: flex;  align-items: center; padding-left: 130px; 
+}
+div.text{
+    width: 1170px;height: 50px; background-color: red
+}
+img.vs{
+    width: 35px;height: 35px; margin-top: 1px;
+}
+a.vscs{
+  font-size: 30px;   color: white; font-weight: 1; padding-left: 10px; padding-right: 10px; text-decoration: none; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a.doc{
+     color: #fff; font-weight: 1; text-decoration: none; margin-top: 5px; padding-left: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a.updates{
+    color: #fff; font-weight: 400; text-decoration: none;margin-top: 5px;padding-left: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a.blog{
+     color: #fff; font-weight: 400; text-decoration: none;margin-top: 5px;padding-left: 20px;font-style: normal; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a.API{
+     color: #fff; font-weight: 400; text-decoration: none;margin-top: 5px;padding-left: 20px;font-style: normal;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a.EXT{
+     color: #fff; font-weight: 400; text-decoration: none;margin-top: 5px;padding-left: 20px;font-style: normal; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a.FAQ{
+     color: #fff; font-weight: 400; text-decoration: none;margin-top: 5px;padding-left: 20px;font-style: normal; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a.Learn{
+     color: #fff; font-weight: 400; text-decoration: none;margin-top: 5px;padding-left: 20px;font-style: normal;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+input.Srch{
+    display: flex;border-bottom-width: 0px;border-left-width: 0px; border-right-width: 0px;border-top-width: 0px;width: 173px;height: 47px;
+margin-left: 80px; background-color:rgba(255,255,255,.08) ; border: 5px; color: #fff; text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a.dow{
+    font-size: 23px; color: #fff; font-weight: 400; text-decoration: none;padding-left: 20px; border: 10px;background-color:#0066b8 ;width: 169px;height: 49px;
+    border-bottom-width: 0px;border-left-width: 0px; border-right-width: 0px;border-top-width:0px; text-align: center; display: flex; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div.upd{
+    width: 1519.2px;height: 44.85px; background-color: #25252b;display: flex; align-items: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+div.s{
+    width: 1170px ; height: 45px ; margin-left: 145px;margin-right: 145px; display: flex;
+}
+a.ver{
+    color: #0098ff; text-align: center; margin-left: 5px; margin-top: 15px; margin-left: 275px;
+}
+p.ava{
+    text-align: center; margin-left: 5px; color:#ccc ; font-style: normal; font-weight: lighter; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+div.MainC{
+    width: 1519px; height: 4450px; display: block;
+}
+div.maincha{
+    height: 650px; margin-left: 174px; margin-right: 174px; display: inline-flex;
+}
+div.np{
+    width: 390px; height: 373px;
+}
+h1.cd{width: 350.66px; height: 83px;color: #fff; font-size: 48px;font-style: normal;font-weight: 100; padding-left: 30px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  }
+strong.sd{width: 360px; height: 55px;color: #fff; margin-left: 33px;font-style: normal;font-weight: 100;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+div.kako{
+    width: 360px;height: 25px; font-size: 19px; color: rgba(255,255,255,.6); font-weight: 100; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+div.chafi{
+    width: 277px;height: 209px; margin-top: 25px; margin-left: 32px;
+}
+button.nodoiani{
+    width: 232px; height: 65px; background-color: #0066b8; font-size: 17px; color: #eee; border-color: #0066b8; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+button.tengoi{
+    width: 43px; height: 65px; background-color: #0066b8; 
+    border-bottom-width: 0px;border-bottom-right-radius: 0px;border-bottom-left-radius: 0px; border-top-right-radius: 0px; padding-top: 8px;padding-bottom: 37px; height: 65px 
+}
+a.gocha{color:#0098ff ;border: 30px; background-color: #25252b;}
+a.xalilov{color: #0098ff;border: 30px; background-color: #25252b; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+p.gozinayi{color: #ccc; border: 30px;background-color: #25252b;padding-bottom: 15px;padding-left: 5px;padding-right: 5px;padding-top: 5px;border-radius: 10px;}
+h5{color: rgba(255,255,255,.6); padding-left: 30px;}
+span.xpcha{color: #0098ff;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+img{
+    width: 700px; height: 530px; margin-top: 30px;
+}
+p.dato{padding-top: 10px;}
+
+div.xabi{background-color: #fff; width: 1519px; height: 128px;  }
+div.misha{width: 1170px; height: 128px; margin-left: 174px;margin-right: 174px;background-color: #fff; display: grid;}
+div.misha{
+    grid-template-columns: 292px 292px 292px 292px ;
+}
+img.intel{width: 215px;height: 128px; box-sizing: border-box;margin-top: 0px;}
+img.rn{width: 230px;height: 128px;margin-top: 0px;   box-sizing: border-box; }
+img.lika{width: 230px;height: 128px;margin-top: 0px; box-sizing: border-box;   }
+img.zazusha{width: 190px;height: 128px;margin-top: 0px; box-sizing: border-box;   }
+div.sani{width: 1519px;height: 363px;background-color:#f5f5f5; display: grid;}
+div.shaqro{ height: 226px; background-color: #f5f5f5;display: grid; margin: auto;grid-template-columns: 373px 373px 373px; }
+div.leclerc{width: 373px;height: 225px;background-color:#f5f5f5 ; display: block}
+img.unachka{width: 72px;height: 72px; margin: 0%;border-radius: 100%;box-shadow: 2px 2px 2px 0 rgba(0, 0, 0, 2); float: left;}
+span.union{ justify-content: space-evenly;  width: 90px;height: 18px;display: flex;text-align: center;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  font-weight: 610; padding-left: 10px; padding-top: 10px; color: black;   }
+p.scena{width: 260px;height: 144px; font-weight: 300;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;display: flex;margin-top: 60px; margin-left: 60px; margin-bottom: 0px;            }
+div.hamilton{width: 373px;height: 225px;background-color: #f5f5f5;display: block;}
+img.simona{width: 72px;height: 72px;margin: 0%;border-radius: 100%;box-shadow: 2px 2px 2px 0 rgba(0, 0, 0, 2);float: left;}
+span.arsenal{justify-content: space-evenly;  width: 150px;height: 18px;display: flex;text-align: center;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  font-weight: 610; padding-left: 10px; padding-top: 10px; color: black;}
+p.sevila{width: 260px;height: 144px; font-weight: 300;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;display: flex;margin-top: 60px; margin-left: 60px; margin-bottom: 0px;}
+div.max{width: 373px;height: 225px;background-color: #f5f5f5}
+img.nana{width: 72px;height: 72px; margin: 0%;border-radius: 100%;box-shadow: 2px 2px 2px 0 rgba(0, 0, 0, 2); float: left;}
+span.liverpool{justify-content: space-evenly;  width: 150px;height: 18px;display: flex;text-align: center;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  font-weight: 610; padding-left: 10px; padding-top: 10px; color: black;}
+p.gala{width: 260px;height: 144px; font-weight: 300;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;display: flex;margin-top: 60px; margin-left: 60px; margin-bottom: 0px;}
+div.bmw{width: 1519px;height: 363px; background-color: #fff;display: grid; }
+div.mercedes{width: 1173px;height: 363px; margin-left: 174px;margin-right: 174px;background-color:#fff; display:flex; grid-template-columns: 360px 625px ;} 
+img.nona{width: 360px;height: 225px;margin-top: 74px;}
+div.audi{width: 682px;height: 218px;background-color: #fff;margin-top: 74px;margin-left: 130px;}
+p.b{width: 652px; height: 120px; font-size: 18px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-weight: 400;line-height: 2.5;}
+h1.bomba{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-weight: 100;}    
+div.sunamo{width: 1519px;height: 383px;background-color:#f5f5f5;}
+div.ferrari{width: 1173px;height: 382px; margin-left: 174px;margin-right: 174px;background-color:#f5f5f5; display:block; grid-template-columns: 360px 625px }
+div.faqo{width: 682px;height: 218px;background-color: #f5f5f5;}
+h1.safule{margin: 0%;padding-top: 80px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-weight: 100;}
+p.xaxvi{font-size: 18px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;padding-top: 20px;line-height: 2.5;}
+div.lambo{width: 390px;height: 263px;background-color:#f5f5f5; float: right;margin-left: 0px;margin-right: 55px;margin-top: 48px;}
+img.k{width: 360px;height: 235px;}
+div.televizori{width: 1519px;height: 363px;background-color: #fff;display: grid;}
+div.porsche{width: 1173px;height: 363px;margin-left: 174px;margin-right: 174px;background-color: #fff;display: flex;grid-template-columns: 360px 625px;}
+img.feta{width: 360px;height: 225px;margin-top: 74px;}
+div.wagon{width: 682px;height: 218px;background-color: #fff;margin-top: 74px;margin-left: 130px;}
+h1.wasd{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-weight: 100;}
+p.cr7{width: 652px; height: 120px; font-size: 18px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-weight: 400;line-height: 2.5;}
+div.skoda{width: 1519px;height: 383px;background-color:#f5f5f5;}
+div.konig{width: 1173px;height: 382px; margin-left: 174px;margin-right: 174px;background-color:#f5f5f5; display:block; grid-template-columns: 360px 625px}
+div.sweden{width: 390px;height: 263px;background-color:#f5f5f5; float: right;margin-left: 0px;margin-right: 55px;margin-top: 48px;}
+img.s{width: 360px;height: 235px; margin-left: 20px; }
+div.amiko{width: 682px;height: 218px;background-color: #f5f5f5;}
+h1.nike{margin: 0%;padding-top: 80px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-weight: 100;}
+p.mgeli{font-size: 18px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;padding-top: 20px;line-height: 2.5;}
+div.fiqri{width: 1519px;height: 363px;background-color: #fff;display: grid;}
+div.mtkvari{width: 1173px;height: 363px;margin-left: 174px;margin-right: 174px;background-color: #fff;display: flex;grid-template-columns: 360px 625px;}
+img.gorka{width: 360px;height: 225px;margin-top: 74px;}
+div.m4{width: 682px;height: 218px;background-color: #fff;margin-top: 74px;margin-left: 130px;}
+h1.qari{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-weight: 100;}
+p.m5{width: 652px; height: 120px; font-size: 18px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-weight: 400;line-height: 2.5;}
+div.kamateli{width: 1519px;height: 476px;background-color: #f5f5f5;}
+div.night{width: 1173px;height: 470px;background-color: #f5f5f5; margin-left: 180px;}
+div.vaja{width: 1170px;height: 88px;background-color: #f5f5f5; padding-top: 6px;}
+h1.kartoshka{padding-left: 500px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-weight: 100;}
+div.enebi{width: 950px;height: 100px; background-color: #f5f5f5 ;margin-left: 110px;}
+img.pluto{width: 30px;height: 30px;}
+table,tr.vanichka,td{border-spacing: 90px; font-size: 18px; }
+table{width: 200px;height: 300px;}
+a.simgera{padding-left: 350px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-size: 17px;color: #0098ff; }
+div.marili{width: 1519px;height: 470px; background-color: #fff;}
+div.flex-container{display: flex;justify-content: center;}
+div.tagvuna{width: 290px;height: 330px;background-color: #fff; margin-top: 50px; }
+div.cheburashka{width: 348px;height: 350px;background-color: #fff; margin-top: 50px;}
+div.dzini{width: 290px;height: 330px;background-color: #fff; margin-top: 50px;}
+img.m2{width: 100px;height: 100px;margin-left: 90px;margin-top: 0px;}
+img.ppp{width: 18px;height: 18px;float: left; word-spacing: 5px;  }
+button.downl{width: 240px;height: 70px;background-color: #0066b8;margin-left: 25px;border-color: #0066b8;margin-top: 15px;}
+p.momo{color: #fff; font-size: 15px;}
+img.komp{width: 230px;height: 120px; margin-left: 30px;margin-top: 30px;}
+img.caska{width: 100px;height: 100px;margin-left: 120px;margin-top: 0px;}
+button.cola{width: 147px;height: 70px;background-color: #0066b8;margin-left: 25px;margin-top: 15px;border-color: #0066b8;}
+button.stili{width: 147px;height: 70px;background-color: #0066b8;border-color: #0066b8;}
+img.eheh{width: 180px;height: 150px;margin-top: 10px;margin-left: 80px;}
+img.apple{width: 100px;height: 120px;margin-top: 0px;margin-left: 93px;}
+button.cgi{width: 240px;height:70px ;background-color: #0066b8;margin-left: 27px; border-color: #0066b8;}
+img.EKIPAJI{width: 230px;height: 70px;margin-left: 30px;margin-top: 10px;}
+div.erekle{width: 1519px;height: 432px;background-color: #f5f5f5;}
+div.lasha{width: 1173px; height: 363px;background-color: #f5f5f5;margin-left: 170px;padding-top: 50px; display: grid ; grid-template-columns: 518px 518px;}
+div.zazuna{width: 518px;height: 138px;background-color: #f5f5f5; }
+div.wk{width: 518px;height: 138px;background-color: #f5f5f5; margin-left: 130px; }
+div.xuso{width: 800px;height: 200px;background-color: #f5f5f5;margin-left: 180px;}
+h2.basiani{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-weight: 600; padding-left: 90px; margin-bottom: 0px;}
+p.marwyvi{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 600;padding-left: 160px;margin-top: 1px; }
+br.s{line-height: normal;}
+span.kg{color: #0066b8;text-decoration: underline;}
+h3.ioio{padding-left: 290px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-weight: 500;}
+p.oioi{width: 600px;height: 18px;padding-left: 90px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 15px;}
+h2.zeus{color: #fff; font-size: 17px ; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-weight: 300;padding-left: 250px; }
+a.cloud{padding-left: 20px;}
+img.japan{width: 150px;height: 65px; padding-left: 1200px; margin-top: 0px; }
+

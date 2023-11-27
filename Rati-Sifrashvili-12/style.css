@@ -1,0 +1,79 @@
+.griditem{
+    background-color: #733FC8;  font-size: 30px; border-radius: 8px;
+}
+.gridcontainer{display: grid;
+grid-template-columns: 530px 350px 350px;grid-template-rows: 300px 300px; justify-content: center; gap: 28px; margin-top: 50px; width: 1110px; height: 572px;margin-left: 195px;
+}
+.griditem4{
+    background-color: #FFF; ; font-size: 30px; width: 330px; border-radius: 8px;
+}
+
+.griditem5{
+    background-color: #19202D;  font-size: 30px;width: 550px; position: relative; right: 200px; border-radius: 8px;
+}
+
+.griditem3{
+    background-color: #FFFFFF;  font-size: 10px; height: 630px; border-radius: 8px;
+}
+.griditem2{
+    background-color:#48556A ;width: 350px; height: 300px; border-radius: 8px;
+}
+body{margin: 0%; background-color: #ECF2F8;;}
+
+span{width: 200px; height: 200px; color: #FFF; font-size: 18px; position: relative; font-family: 'Barlow', sans-serif;
+    font-family: 'Barlow Semi Condensed', sans-serif;}
+
+img{margin-top: 26px; margin-left: 32px;}
+p.p{width: 476px;height: 62px;font-size: 20px;margin-left: 30px; color: #FFF ; font-family: 'Barlow', sans-serif;
+    font-family: 'Barlow Semi Condensed', sans-serif;}
+
+p.pp {font-size: 13px;width: 475px;height: 90px; margin-left: 32px; margin-top: 32px; color:#CFCFCF ;font-family: 'Barlow', sans-serif;
+    font-family: 'Barlow Semi Condensed', sans-serif;}   
+
+p.ppp{width: 191px;height: 72px; font-family: 'Barlow', sans-serif;
+    font-family: 'Barlow Semi Condensed', sans-serif; color: #FFF;line-height: normal; font-size: 20px; font-weight: 600; margin-top: 18px;margin-left: 50px;margin-bottom: 10px; }
+
+p.pppp{width: 191px;height: 71px;color: #CFCFCF; font-size: 13px; margin-top: 32px;margin-left: 50px;   font-family: 'Barlow', sans-serif;
+    font-family: 'Barlow Semi Condensed', sans-serif;        }    
+
+img.china{margin-right: 0px; margin-top: 32px;margin-left: 50px;}    span.kira{color: #48556A; width: 10px;height: 10px; position: relative;margin-left: 10px;}
+
+p.asia{font-size: 23px;width: 191px;height: 71px; font-weight: 600; line-height: normal; color: #48556A; font-family: 'Barlow', sans-serif;
+    font-family: 'Barlow Semi Condensed', sans-serif; margin-left: 50px;}
+
+p.text{width: 191px; height: 440px;font-weight: 500;font-size: 14px;color: #48556A;font-family: 'Barlow', sans-serif;
+    font-family: 'Barlow Semi Condensed', sans-serif; margin-top: 25px;margin-left: 50px;}    
+
+img.usa{margin-left: 32px;margin-top: 26px;}
+
+p.miki{font-size: 23px;width: 191px; height: 71px; font-weight: 600;color: #48556A; font-family: 'Barlow', sans-serif;
+    font-family: 'Barlow Semi Condensed', sans-serif;margin-left: 38px;}
+
+p.kaladze{width: 191px;height: 71px; font-size: 14px; color: #48556A; margin-left: 38px;font-family: 'Barlow', sans-serif;
+    font-family: 'Barlow Semi Condensed', sans-serif; margin-top: 30px;}    
+
+p.siradze{font-size: 14px;width: 475px;height: 90px; margin-left: 32px; margin-top: 40px; color:#CFCFCF ;font-family: 'Barlow', sans-serif;
+    font-family: 'Barlow Semi Condensed', sans-serif;  }   
+
+ div.gridcontainer{margin-left: 195px; margin-right: 195px;}   
+
+
+
+
+
+@media screen and (max-width:376px) {
+    div.griditem{width: 327px;height: 444px; display: block;margin-bottom: 23px;  ;}
+    div.griditem2{width: 327px;height: 240px; display: block;margin-bottom: 23px;}
+    div.griditem4{width:327px ; height: 300px; display: block;margin-bottom: 23px;}
+    div.griditem5{width: 327px;height: 438px; display: block; position: static;}
+    div.griditem3{width: 327px;height: 438px; display: block;margin-bottom: 23px; }
+    .gridcontainer{display: block; margin-top: 10px; margin-left: 45px; width: 375px;height: 1900px;  margin-left: 45px;} 
+    p.p{width: 263px;} p.pp{width: 247px; margin-top: 80px;} p.ppp{width: 263px;height: 48px; margin-left: 35px;} p.pppp{width: 263px;height: 32px;margin-left: 34px;margin-top: 20px;}
+    p.asia{width: 263px;height: 48px;font-size: 20px;margin-left: 30px; } p.text{width: 263px; height: 191px;margin: 40px; font-size: 13px;margin-left: 30px;}
+    img.china{margin-left: 30px;}
+    p.p{height: 120px;} p.siradze{width: 263px;height: 144px;} p.pp{margin-top: 40px;}
+
+
+
+}
+

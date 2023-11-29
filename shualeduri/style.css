@@ -1,0 +1,36 @@
+
+@media  screen and (max-width:429px) {
+    div.main-container{width: 375px; height: 3200px; background-color:#FFF ; } html{background-color: #FFF;}
+    div.navbar{width: 375px;height: 48px; background-color: #FFF;display: flex;margin-top: 34px;} body{margin: 0%;} img.icon{margin-top: 0px; margin-left: 24px;}
+    button.pre{width: 150px; height: 48px; background-color: #E8EFF2; border-color: #E8EFF2; margin-left: 136px;font-weight: bold; border-radius: 8px;
+    font-family:   'Barlow', sans-serif;
+    font-family: 'Barlow Semi Condensed', sans-serif;;}
+    div.text{width: 327px;height: 286px; background-color: #FFF; margin: auto; margin-top: 75px;} h1{font-size: 47px; font-style: normal;text-transform: uppercase;font-weight: bold ; font-family: 'Barlow', sans-serif;color:#162542; ;       }
+    p.text-paragraph{width: 327px;height: 78px;font-size: 16px;font-style: normal;font-weight: 500;font-family: 'Barlow', sans-serif;line-height: 26px;}
+    button.preorder{width: 150px; height: 48px; background-color:#F16718 ; border-radius: 8px; color: #FFF;border-color: #F16718; font-family: 'Barlow', sans-serif;    }
+    span{margin-left: 32px;color: #7B8BAD;font-family: 'Barlow', sans-serif; }
+    div.photo{width: 372px; height: 331px;background-color: #FFF; margin: auto ;margin-top: 70px;}
+    img.KEYBOARD{margin-left: 23px;border-radius: 20px 0px 0px 20px;}
+    div.photo2{width: 374px;height: 226px; background-color:#FFF; margin-top: 30px; }
+    img.orangekey{background-color: #F16718; height: 226px; border-radius: 0px 20px 20px 0px; margin: auto;}
+    img.bitmap{margin-left: 20px; border-radius: 20px 20px 20px 20px; width: 210px; height: 226px;margin: auto; margin-left: 20px;}
+    div.describe{width: 340px;height: 340px; margin: auto;background-color: #FFF; margin-top: 82px;}
+    h1.descr{width: 255px;height: 108px; line-height: 50px;font-family: 'Barlow', sans-serif;margin: auto; color: #162542;}
+    p.describer{ width: 327px;  height: 104px; font-size: 16px; margin: auto; color: #162542;font-family: 'Barlow', sans-serif;line-height: 26px; margin-top: 80px; }
+    div.testimonial{width: 327px;height: 297px;background-color: #FFF; margin: auto;}
+    img.testimonial{margin-left: 130px; margin-bottom: 20px;}  span.vaxo{width: 327px; color: #162542; margin-left: 95px; font-size: 47px; }
+    span.kaladzee{width: 327px; color: #162542; font-size: 47px;}  p.siradze{width: 327px; font-size: 16px; margin-left: 20px;font-family: 'Barlow', sans-serif;margin-bottom: 80px; }
+    span.miki{width: 327px; color: #162542; margin-left: 60px; font-size: 47px;}
+    span.batonizura{width: 327px; color: #162542; margin-left: 110px; font-size: 47px;} span.zaza{width: 327px; color: #162542; font-size: 47px; margin-left: 45px;}
+    div.testimonial1{width: 327px; height: 297px; background-color: #FFF; margin: auto; margin-top: 120px;}
+    span.salfetqi{margin-left: 32px;font-size: 40px; color:#162542;}
+    div.footer{width: 276px;height: 26px;margin: auto;margin-top: 110px; font-family: 'Barlow', sans-serif;color: #7B8BAD;   }
+
+
+
+}
+
+
+@media screen and (min-width:429px) { div.navbar{background-color: green; width: 689px; height: 56px;   } div.main-container{width: 768px; height: 2400px;}
+    
+}
